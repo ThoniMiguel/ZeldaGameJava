@@ -17,7 +17,7 @@ public class Entity {
     }
 
     public void render(Graphics g){
-        //parei aqui aos 06:06
+        //parei aqui aos 06:06 classe spritesheet, player e entity
     }
 
 
