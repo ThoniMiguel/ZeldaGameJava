@@ -27,7 +27,7 @@ public class Game extends Canvas implements Runnable{
     }
 
     public void initFrame(){
-        frame = new JFrame("Game #1");
+        frame = new JFrame("Game Zelda");
         frame.add(this); //adicionar o proprio canvas pro frame conseguir pegar as propriedades da tela
         frame.setResizable(false); // Usuario nao pode mudar o tamanho da janela
         frame.pack();
